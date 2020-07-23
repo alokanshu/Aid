@@ -39,5 +39,5 @@ analysis work that you perform.<br>
 A well-commented Jupyter notebook containing the Clustering Models(both
 K-means and Hierarchical Clustering) and the final list of countries.<br>
 
-### Whole presentation in the above file named "VERZEO MAIN PROJECT.pdf".
+### Whole presentation in the above commited file named "VERZEO MAIN PROJECT.pdf".
 
